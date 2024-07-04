@@ -22,8 +22,6 @@ This repository contains the code and documentation for the project on Artificia
 5. [Conclusion](#conclusion)
 6. [How to Use](#how-to-use)
 7. [Dependencies](#dependencies)
-8. [Contributing](#contributing)
-9. [License](#license)
 
 ## Introduction
 This project focuses on the development and testing of various AI models and algorithms used in autonomous systems. It covers both the theoretical background and practical implementation of these models.
@@ -75,7 +73,7 @@ Summarizes the project's outcomes and future directions for research and develop
 
 ## How to Use
 Instructions on how to run the code:
-1. Clone the repository: `git clone https://github.com/yourusername/AI_Autonomous_Systems_Project.git`
+1. Clone the repository: `git clone https://github.com/dmcs19/AI-Autonomous-Systems-Project.git`
 2. Navigate to the project directory: `cd AI_Autonomous_Systems_Project`
 3. Install necessary dependencies (see below).
 4. Run the main scripts.
@@ -85,8 +83,3 @@ List of software and libraries required to run the project:
 - Python 3.x
 - Libraries: numpy, pandas, scikit-learn, etc.
 
-## Contributing
-Guidelines for contributing to the project.
-
-## License
-Information about the project's license.
