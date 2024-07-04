@@ -5,51 +5,23 @@ This repository contains the code and documentation for the project on Artificia
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Theoretical Framework](#theoretical-framework)
-   - [Artificial Intelligence](#artificial-intelligence)
-   - [Dynamic Models](#dynamic-models)
-   - [Software Engineering](#software-engineering)
-   - [Reactive Agents](#reactive-agents)
-   - [Automatic Reasoning](#automatic-reasoning)
-   - [State Space Search](#state-space-search)
-   - [Deliberative Agents](#deliberative-agents)
-3. [Project Details](#project-details)
-   - [Game Development](#game-development)
+2. [Development](#development)
+   - [Game](#game)
    - [Reactive Agent](#reactive-agent)
    - [State Space Search](#state-space-search)
    - [Markov Decision Process](#markov-decision-process)
-4. [Project Review](#project-review)
-5. [Conclusion](#conclusion)
-6. [How to Use](#how-to-use)
-7. [Dependencies](#dependencies)
+3. [Project Review](#project-review)
+4. [Conclusion](#conclusion)
+5. [How to Use](#how-to-use)
+6. [Dependencies](#dependencies)
+7. [Contributing](#contributing)
+8. [License](#license)
 
 ## Introduction
 This project focuses on the development and testing of various AI models and algorithms used in autonomous systems. It covers both the theoretical background and practical implementation of these models.
 
-## Theoretical Framework
-### Artificial Intelligence
-Explores the paradigms of symbolic, connectionist, and behavioral AI, and how intelligent agents are characterized by autonomy, reactivity, proactivity, and sociability.
-
-### Dynamic Models
-Describes the structure, dynamics, and behavior of computational systems and how they evolve over time.
-
-### Software Engineering
-Focuses on the specification, development, and maintenance of software systems to ensure efficiency, reliability, and quality.
-
-### Reactive Agents
-Details the architecture of agents that respond to stimuli with pre-defined rules and behaviors.
-
-### Automatic Reasoning
-Explains how computational systems solve problems automatically by exploring and evaluating options.
-
-### State Space Search
-Covers methods for solving planning problems by searching through state spaces.
-
-### Deliberative Agents
-Discusses agents that use memory and anticipation of future states to make decisions.
-
-## Project Details
-### Game Development
+## Development
+### Game
 - **Development**: Steps and methodologies used in creating the game environment.
 - **Testing**: Methods and results of testing the game.
 
